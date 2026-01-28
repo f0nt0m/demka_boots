@@ -1,7 +1,5 @@
 # Магазин обуви
 
-Django-проект для демоэкзамена.
-
 ## Что реализовано
 
 - Модели данных: Product, Category, Manufacturer, Supplier
