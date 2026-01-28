@@ -5,7 +5,6 @@ Django-проект для демоэкзамена.
 ## Что реализовано
 
 - Модели данных: Product, Category, Manufacturer, Supplier
-- База данных SQLite
 - Команда импорта товаров из CSV
 
 ## Запуск
